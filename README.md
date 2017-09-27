@@ -4,7 +4,7 @@ Example of configuration of UART in C. Simple routines for better understanding 
 
 ## Getting Started
 
-Clone or download this repository on your computer. In the docs folder there is the x5xx manual (that this code will probably work). In the src folder is the header and the implementation of the functions.
+Clone or download this repository on your computer. In the docs folder there is the x5xx manual. In the src folder is the header and the implementation of the functions.
 
 ### Prerequisites
 
